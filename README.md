@@ -1,2 +1,2 @@
 # hello-world
-Sample work
+Sample work by George aka Van Trax
