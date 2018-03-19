@@ -1,0 +1,6 @@
+The UndoManager is a small, self-contained example sub-system. You can find the sources in the "src" directory. 
+
+It consists of a couple of interfaces that all play together to fulfill 
+the task of tracking, undoing and redoing changes to some text document. 
+You can think of it as a sub-system of a text editor.
+
